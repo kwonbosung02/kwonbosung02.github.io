@@ -1,9 +1,7 @@
 ### KwonBosung Self Introduction :airplane:
 Kwon Bosung from south Korea.<br>Korea Digital Media High School(KDMHS) second grade <br>Hardware engineer, Developer<br>area of Interests : Python(Vision programming(openCV),Keras,sikitLearn,Tensorflow),Raspberry pi, Arduino<br>
 
-Dream : Robot researcher
-
-<br>
+Dream : Robot researcher<br>
 
 ### 2019
 
@@ -14,7 +12,7 @@ Developing a Road Line Detection program with Python, openCV<br>Developing a Wor
 20th International Robot Olympiad Create Category Technical medal Medal<br>
 ICT hackathon 1st<br>
 Harmony hackaton 3rd<br>
-Robot Olympiad final league in Korea 3rd<br>4th Industrial Revolution Idea Hackathon <br>Had developed approximately 10 ~ 12 devices, systems with Raspberry pi, Arduino, Python. (IOT , Robot, system)<br>Made smartFram with Arduino and Javascript(app),made two smartFarms 2017 ~ 2018
+Robot Olympiad final league in Korea 3rd<br>4th Industrial Revolution Idea Hackathon 4th <br>Had developed approximately 10 ~ 12 devices, systems with Raspberry pi, Arduino, Python. (IOT , Robot, system)<br>Made smartFram with Arduino and Javascript(app),made two smartFarms 2017 ~ 2018
 
 ### 2017
 
