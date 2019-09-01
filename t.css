@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500&display=swap');
 html{
+  font-family: 'Raleway', sans-serif;
    padding: 0px;
    margin: 0px;
 }
