@@ -34,7 +34,19 @@
     <script type="text/javascript" src="t.js"></script>
     <script> 
         new WOW().init(); 
-   
+        item2 = ()=>{
+            var item =  document.getElementsByTagName("body")[0]
+            if(item == 0){
+                item.style+='display:block'
+            }
+            else{
+                item.style+='display:none'
+            }
+            
+        }
+        window.onload = function(){
+            item2();
+        }
     </script>
 </body>
 </html>

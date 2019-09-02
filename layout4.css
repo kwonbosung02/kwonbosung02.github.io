@@ -21,6 +21,46 @@ body{
     border: 1px solid white;
     margin-left:2.5%;
 }
+#head{
+    color:white;
+    font-size: 7vw;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 17%;
+}
+#show{
+    background-color: rebeccapurple;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 18%;
+    width:60%;
+    height: 20%;
+    background-color: black;
+}
+#t1{
+    color:white;
+    font-size: 3.3vw;
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 19%;
+
+}
+#t2{
+    color:white;
+    font-size: 2.3vw;
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 23%;
+
+}
+#t3{
+    color:white;
+    font-size: 2.3vw;
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 25%;
+
+}
 .profile1{
 
     width:2%;
